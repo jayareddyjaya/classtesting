@@ -11,3 +11,6 @@ log_group_name = AMZ-2
 
 service awslogsd start
 systemctl  enable awslogsd
+
+
+Ref: https://medium.com/tensult/to-send-linux-logs-to-aws-cloudwatch-17b3ea5f4863
